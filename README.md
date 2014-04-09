@@ -1,4 +1,4 @@
-datasciencecoursera
+# datasciencecoursera
 ===================
 
-This is the repository for The Data Scientist's Toolsbox
+* This is the repository for The Data Scientist's Toolsbox
